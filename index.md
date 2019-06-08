@@ -1,3 +1,39 @@
-Welcome! This site is currently under construction. In the meantime, feel free to visit my <a href="https://virginia.academia.edu/RStephenHill" target="_blank">academia.edu</a> site or my <a href="http://classics.as.virginia.edu/people/profile/rsh7bu" target="_blank">page</a> at the University of Virginia's Department of Classics.
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  Welcome! This site is currently under construction. In the meantime, feel free to visit my <a href="https://virginia.academia.edu/RStephenHill" target="_blank">academia.edu</a> site or my <a href="http://classics.as.virginia.edu/people/profile/rsh7bu" target="_blank">page</a> at the University of Virginia's Department of Classics.
 
 To contact me about summer Greek programs, including the <a href="https://www.conventiculum.com/" target="_blank">Σύνοδος Ἑλληνική</a>, please write to summerprograms at rstephenhill dot com. For everything else, I can be reached at rstephenhill at gmail dot com.
+
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
