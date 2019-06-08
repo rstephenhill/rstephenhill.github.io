@@ -17,6 +17,8 @@ author:
 
 paginate:         5
 
+excerpt_separator: ""
+
 # Custom vars
 version:          2.0.0
 
