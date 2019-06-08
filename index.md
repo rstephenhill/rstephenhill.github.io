@@ -1,1 +1,1 @@
-Welcome! This site is currently under construction. In the meantime, feel free to visit my www.academia.edu site or my page at the University of Virginia's Department of Classics.
+Welcome! This site is currently under construction. In the meantime, feel free to visit my <a href="https://virginia.academia.edu/RStephenHill">academia.edu</a> site or my <a href="http://classics.as.virginia.edu/people/profile/rsh7bu">page</a> at the University of Virginia's Department of Classics.
