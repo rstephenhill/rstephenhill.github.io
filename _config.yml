@@ -1,27 +1,5 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
+theme: jekyll-theme-slate
 
-# Permalinks
-permalink:        pretty
+title: R. Stephen Hill
 
-# Setup
-title:            Lanyon
-tagline:          'R. Stephen Hill'
-description:      test
-url:              http://lanyon.getpoole.com
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
-
-excerpt_separator: ""
-
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/poole/lanyon
-
+google_analytics: UA-141745926-1
