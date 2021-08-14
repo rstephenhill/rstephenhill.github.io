@@ -2,4 +2,4 @@ Welcome! I’m Stephen Hill, Instructor of Latin at <a href="http://wyomingcatho
 
 This site is currently under construction. In the meantime, feel free to visit my <a href="https://virginia.academia.edu/RStephenHill" target="_blank">academia.edu</a> site or my <a href="https://wyomingcatholic.edu/person/stephen-hill/" target="_blank">faculty profile</a> at WCC, or to view my <a href="/R. Stephen Hill – CV 2021 07.pdf" target="_blank">CV.</a> 
 
-For questions about Polis Institute summer programs in North America, email email stephen.hill12345 AT polisjerusalem12345 DOT org12345 (remove 12345 and replace AT and DOT with the appropriate symbols).
+For questions about Polis Institute summer programs in North America, email stephen.hill12345 AT polisjerusalem12345 DOT org12345 (remove 12345 and replace AT and DOT with the appropriate symbols).
