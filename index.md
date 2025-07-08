@@ -2,4 +2,4 @@ Welcome! I’m Stephen Hill, Assistant Professor of Latin and Humanities at <a h
 
 This site is currently under construction. In the meantime, feel free to view my <a href="https://virginia.academia.edu/RStephenHill" target="_blank">academia.edu</a> site, my <a href="https://wyomingcatholic.edu/person/stephen-hill/" target="_blank">faculty profile</a> at WCC, or my <a href="/pdfs/Hill_CV_2025.01.01.pdf" target="_blank">CV</a>.
 
-test again
+minimal theme

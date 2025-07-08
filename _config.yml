@@ -1,7 +1,5 @@
-title: R. Stephen Hill
-description: YOUR DESCRIPTION
-theme: just-the-docs
+theme: jekyll-theme-minimal
 
-url: https://rstephenhill.github.io/rstephenhill
+title: R. Stephen Hill
 
 google_analytics: UA-141745926-1
