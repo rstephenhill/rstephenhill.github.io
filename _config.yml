@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 title: R. Stephen Hill
 
