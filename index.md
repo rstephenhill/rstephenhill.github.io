@@ -1,3 +1,5 @@
 Welcome! I’m Stephen Hill, Assistant Professor of Latin and Humanities at <a href="http://wyomingcatholic.edu/" target="_blank">Wyoming Catholic College</a>. For over a decade, I've helped language learners develop fluency in reading, writing, and speaking ancient Greek and Latin through active communication. My research interests include imperial Greek literature and culture, Greek religion, and the application of second language acquisition research to ancient language teaching. I hold a Ph.D. in Classics (University of Virginia), along with an M.A. in Classics (University of Kentucky) and an M.A. in Teaching English as a Second Language (University of Illinois at Urbana-Champaign).
 
 This site is currently under construction. In the meantime, feel free to view my <a href="https://virginia.academia.edu/RStephenHill" target="_blank">academia.edu</a> site, my <a href="https://wyomingcatholic.edu/person/stephen-hill/" target="_blank">faculty profile</a> at WCC, or my <a href="/pdfs/Hill_CV_2025.01.01.pdf" target="_blank">CV</a>.
+
+test
