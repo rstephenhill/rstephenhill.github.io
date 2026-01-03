@@ -10,7 +10,7 @@ stephen.hill@wyomingcatholic.edu
 
 [All translations are my own.]
 
-## Outline
+## 1. Outline
 - Introduction (1–4)
   - Aporia: what trade should the narrator learn? (1)
   - His father’s choice: sculpture (2)
@@ -28,30 +28,30 @@ stephen.hill@wyomingcatholic.edu
 
 - Epilogue: Audience objections and the narrator's response (17–18)
   
-## Passage 2: Lucian *Dream* 5
+## 2: Lucian *Dream* 5
 ἵνα γὰρ καθ’ Ὁμηρον εἴπω, ``θεῖός μοι ἐνύπνιον ἦλθεν ὄνειρος / ἀμβροσίην διὰ νύκτα,'' **ἐναργὴς** οὔτως ὥστε μηδὲν ἀπολείπεσθαι τῆς ἀληθείας. ἔτι γοῦν καὶ μετὰ τοσοῦτον χρόνον τά τε σχήματά μοι τῶν φανέντων ἐν τοῖς ὀφθαλμοῖς παραμένει καὶ ἡ φωνὴ τῶν ἀκουσθέντων **ἔναυλος**· οὕτω **σαφῆ** πάντα ἦν.
 
 To speak after the manner of Homer, ``A divine dream, a vision, came upon me in the ambrosial night,'' so **vivid** as to in no way fall short of the truth. For still, after so much time, the forms of what appeared to me remain in my eyes and the sound of what I heard is **distinct**, everything was so **clear**.
 
 
-## Passage 3: Lucian *Dream* 8
+## 3: Lucian *Dream* 8
 Ταῦτα καὶ ἔτι τούτων πλείονα διαπταίουσα καὶ βαρβαρίζουσα πάντοθεν εἶπεν ἡ Τέχνη . . . **ἀλλ’ οὐκέτι μέμνημαι· τὰ πλεῖστα γὰρ μου τὴν μνήμην ἤδη διέφυγεν.**
 
 Sculpture said these things and even more than these, blundering and barbarizing at every turn . . . **but I don’t remember anymore. Most of what she said has already escaped my memory.**
 
-## Passage 4: Lucian *Dream* 15
+## 4: Lucian *Dream* 15
 
 ἀρθεὶς δὲ εἰς ὕψος ἐγὼ ἐπεσκόπουν ἀπὸ τῆς ἕω ἀρξάμενος ἄχρι πρὸς τὰ ἑσπέρια πόλεις καὶ ἔθνη καὶ δήμους, καθάπερ ὁ Τριπτόλεμος ἀποσπείρων τι εἰς τὴν γῆν. οὐκέτι μέντοι μέμνημαι ὅ τι τὸ σπειρόμενον ἐκεῖνο ἦν, πλὴν τοῦτο μόνον ὅτι κάτωθεν ἀφορῶντες ἄνθρωποι ἐπῄνουν . . .
 
 Lifted up to a great height I looked from the east to the west and beheld cities and races and peoples, and like Triptolemus I was sowing something down to earth. Yet I no longer remember what it was that I was sowing, except only that the people looking at me from below approved of it . . .
 
-## Passage 5: Lucian *Dream* 16
+## 5: Lucian *Dream* 16
 
 Ταῦτα μέμνημαι ἰδὼν ἀντίπαις ἔτι ὤν, ἐμοὶ δοκεῖν ἐκταραχθεὶς πρὸς τὸν τῶν πληγῶν φόβον.
 
 I remember seeing this when I was still a boy, greatly upset, I think, by my fear of [my uncle's] blows.
 
-## Passage 6: Ar. *Clouds* 483–85
+## 6: Ar. *Clouds* 483–85
 
 ΣΩ. οὔκ, ἀλλὰ βραχέα σου πυθέσθαι βούλομαι.
 ἦ μνημονικὸς εἶ; ΣΤ. δύο τρόπω νὴ τὸν Δία·
@@ -61,21 +61,21 @@ I remember seeing this when I was still a boy, greatly upset, I think, by my fea
 Are you apt to remember things? By Zeus, in two ways: if something is owed me, I have an excellent memory; but if I'm the wretch who owes something, I'm quite forgetful.
 
 
-## Passage 7: Ar. *Clouds* 629–31
+## 7: Ar. *Clouds* 629–31
 
-## Passage 8: Ar. *Clouds* 785–90
+## 8: Ar. *Clouds* 785–90
 
-## Passage 9: Lucian *Dream* 12
+## 9: Lucian *Dream* 12
 
-## Passage 10: Ar. *Clouds* 1104
+## 10: Ar. *Clouds* 1104
 
-## Passage 11: Lucian *Dream* 17
+## 11: Lucian *Dream* 17
 
-## Passage 12: Ar. *Clouds* 43–52
+## 12: Ar. *Clouds* 43–52
 
-## Passage 13: Ar. *Clouds* 359–60
+## 13: Ar. *Clouds* 359–60
 
-## Passage 14: Ar. *Clouds* 1048–50
+## 14: Ar. *Clouds* 1048–50
 
 ## Bibliography
 
