@@ -29,9 +29,9 @@ stephen.hill@wyomingcatholic.edu
 - Epilogue: Audience objections and the narrator's response (17–18)
   
 ## 2: Lucian *Dream* 5
-ἵνα γὰρ καθ’ Ὁμηρον εἴπω, ``θεῖός μοι ἐνύπνιον ἦλθεν ὄνειρος / ἀμβροσίην διὰ νύκτα,'' **ἐναργὴς** οὔτως ὥστε μηδὲν ἀπολείπεσθαι τῆς ἀληθείας. ἔτι γοῦν καὶ μετὰ τοσοῦτον χρόνον τά τε σχήματά μοι τῶν φανέντων ἐν τοῖς ὀφθαλμοῖς παραμένει καὶ ἡ φωνὴ τῶν ἀκουσθέντων **ἔναυλος**· οὕτω **σαφῆ** πάντα ἦν.
+ἵνα γὰρ καθ’ Ὁμηρον εἴπω, "θεῖός μοι ἐνύπνιον ἦλθεν ὄνειρος / ἀμβροσίην διὰ νύκτα," **ἐναργὴς** οὔτως ὥστε μηδὲν ἀπολείπεσθαι τῆς ἀληθείας. ἔτι γοῦν καὶ μετὰ τοσοῦτον χρόνον τά τε σχήματά μοι τῶν φανέντων ἐν τοῖς ὀφθαλμοῖς παραμένει καὶ ἡ φωνὴ τῶν ἀκουσθέντων **ἔναυλος**· οὕτω **σαφῆ** πάντα ἦν.
 
-To speak after the manner of Homer, ``A divine dream, a vision, came upon me in the ambrosial night,'' so **vivid** as to in no way fall short of the truth. For still, after so much time, the forms of what appeared to me remain in my eyes and the sound of what I heard is **distinct**, everything was so **clear**.
+To speak after the manner of Homer, "A divine dream, a vision, came upon me in the ambrosial night," so **vivid** as to in no way fall short of the truth. For still, after so much time, the forms of what appeared to me remain in my eyes and the sound of what I heard is **distinct**, everything was so **clear**.
 
 
 ## 3: Lucian *Dream* 8
@@ -86,7 +86,7 @@ By Breath, by Chaos, by the Air, I have never seen a man so rustic, helpless, cl
 	
 ἐπιλησμότατον καὶ σκαιότατον γερόντιον;
 	
-Socrates: ``But you immediately forget whatever you've learned! What were you taught just now? Say it.'' Strepsiades: ``Let's see, what was first, then? What was first? What was it that we knead groats in? What was it?!'' Socrates: ``Damn you, you exceedingly forgetful and clumsy old man!''
+Socrates: "But you immediately forget whatever you've learned! What were you taught just now? Say it." Strepsiades: "Let's see, what was first, then? What was first? What was it that we knead groats in? What was it?!" Socrates: "Damn you, you exceedingly forgetful and clumsy old man!"
 
 
 ## 9: Lucian *Dream* 12
@@ -99,11 +99,11 @@ And Socrates, who himself was nurtured by this woman Sculpture, as soon as he un
 
 ΚΡ. ἐξαὐτομολῶ πρὸς ὑμᾶς.
 		
-Stronger Arg.: ``I'm deserting to you.''
+Stronger Arg.: "I'm deserting to you."
 
 ## 11: Lucian *Dream* 17
 
-Μεταξὺ δὲ λέγοντος, ``Ἡράκλεις,'' ἔφη τις, ``ὡς μακρὸν τὸ ἐνύπνιον καὶ δικανικὸν.» εἶτ’ ἄλλος ὑπέκρουσε, ``Χειμερινὸς ὄνειρος, ὅτε μήκισταί εἰσιν αἱ νύκτες, ἢ τάχα που τριέσπερος, ὥσπερ ὁ Ἡρακλῆς, καὶ αὐτός ἐστι.\ldots ἔωλος γὰρ ἡ ψυχρολογία. μὴ ὀνείρων ὑποκριτάς τινας ἡμᾶς ὑπείληφεν;'' οὔκ, ὦγαθε· οὐδὲ γὰρ ὁ Ξενοφῶν ποτε διηγούμενος τὸ ἐνύπνιον, ὡς ἐδόκει αὐτῷ κεραυνὸς ἐμπεσὼν καίειν τὴν πατρῴαν οἰκίαν καὶ τὰ ἄλλα, — ἴστε γὰρ — οὐχ ὑπόκρισιν τὴν ὄψιν οὐδ’ ὡς φλυαρεῖν ἐγνωκὼς αὐτὰ διεξῄει . . . ἀλλά τι καὶ χρήσιμον εἶχεν ἡ διήγησις.
+Μεταξὺ δὲ λέγοντος, "Ἡράκλεις," ἔφη τις, "ὡς μακρὸν τὸ ἐνύπνιον καὶ δικανικὸν.» εἶτ’ ἄλλος ὑπέκρουσε, "Χειμερινὸς ὄνειρος, ὅτε μήκισταί εἰσιν αἱ νύκτες, ἢ τάχα που τριέσπερος, ὥσπερ ὁ Ἡρακλῆς, καὶ αὐτός ἐστι.\ldots ἔωλος γὰρ ἡ ψυχρολογία. μὴ ὀνείρων ὑποκριτάς τινας ἡμᾶς ὑπείληφεν;" οὔκ, ὦγαθε· οὐδὲ γὰρ ὁ Ξενοφῶν ποτε διηγούμενος τὸ ἐνύπνιον, ὡς ἐδόκει αὐτῷ κεραυνὸς ἐμπεσὼν καίειν τὴν πατρῴαν οἰκίαν καὶ τὰ ἄλλα, — ἴστε γὰρ — οὐχ ὑπόκρισιν τὴν ὄψιν οὐδ’ ὡς φλυαρεῖν ἐγνωκὼς αὐτὰ διεξῄει . . . ἀλλά τι καὶ χρήσιμον εἶχεν ἡ διήγησις.
 
 But as I was speaking, “Heracles!” someone said, “what a long and forensic dream.”	Then someone else broke in: “A wintry dream, when the nights are longest, or perhaps he too was begotten in three nights, just like Heracles.\ldots His nonsense is stale. Surely he doesn't take us for dream-interpreters?” No, my friend: for even Xenophon, when he told how in a dream it seemed to him that a thunderbolt struck and burned up his ancestral home and all the rest–-you know what I'm referring to–-he wasn't recounting all that in order to have it interpreted or because he'd decided to talk nonsense; . . . no, the story had something useful in it.
 
@@ -128,7 +128,7 @@ Mine was an exceedingly pleasant rustic life: moldy, free of bugs, lying where I
 
 οὐ γὰρ ἄλλῳ γ' ὑπακούσαιμεν τῶν νῦν μετεωροσοφιστῶν / πλὴν ἢ Προδίκῳ . . .
 
-  ``For we would not listen to any other contemporary celestially minded sophist [than you, Socrates], except for Prodicus . . .''
+  "For we would not listen to any other contemporary celestially minded sophist [than you, Socrates], except for Prodicus . . ."
 
 ## 14: Ar. *Clouds* 1048–50
 
@@ -138,7 +138,7 @@ Mine was an exceedingly pleasant rustic life: moldy, free of bugs, lying where I
 		
 ΚΡ. ἐγὼ μὲν οὐδέν' Ἡρακλέους βελτίον' ἄνδρα κρίνω.
 		
-Weaker Arg.: ``Tell me: which one of Zeus' children do you think is most excellent in soul and completed the most labors?'' Stronger Arg.: ``For my part, I don't consider any man better than Heracles.''
+Weaker Arg.: "Tell me: which one of Zeus' children do you think is most excellent in soul and completed the most labors?" Stronger Arg.: "For my part, I don't consider any man better than Heracles."
 
 
 ## Bibliography
