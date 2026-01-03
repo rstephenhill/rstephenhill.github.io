@@ -54,8 +54,11 @@ I remember seeing this when I was still a boy, greatly upset, I think, by my fea
 ## 6: Ar. *Clouds* 483–85
 
 ΣΩ. οὔκ, ἀλλὰ βραχέα σου πυθέσθαι βούλομαι.
+
 ἦ μνημονικὸς εἶ; ΣΤ. δύο τρόπω νὴ τὸν Δία·
+
 ἢν μὲν γὰρ ὀφείληταί τί μοι, μνήμων πάνυ·
+
 ἐὰν δ᾽ ὀφείλω σχέτλιος, ἐπιλήσμων πάνυ.
 
 Are you apt to remember things? By Zeus, in two ways: if something is owed me, I have an excellent memory; but if I'm the wretch who owes something, I'm quite forgetful.
