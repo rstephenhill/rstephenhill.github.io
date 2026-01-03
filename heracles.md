@@ -10,7 +10,7 @@ stephen.hill@wyomingcatholic.edu
 
 [All translations are my own.]
 
-## 1: Outline
+## 1: Outline of Lucian's *Dream*
 - Introduction (1–4)
   - Aporia: what trade should the narrator learn? (1)
   - His father’s choice: sculpture (2)
