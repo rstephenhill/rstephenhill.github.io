@@ -4,12 +4,20 @@
   - His father’s choice: sculpture (2)
   - Failure as apprentice (3)
   - The aftermath: tears, maternal comfort, and sleep (4)
+
 - Transition to dream (5)
+
 - Dream (6–16)
   - Description of Sculpture and Paideia (6)
   - Sculpture’s speech (7–8)
   - Paideia’s speech (9–13)
   - The narrator’s choice: Paideia (14)
   - The rewards of Paideia (15–16)
+
 - Epilogue: Audience objections and the narrator's response (17–18)
+  
 # next heading
+
+test
+
+test
