@@ -41,25 +41,41 @@ Sculpture said these things and even more than these, blundering and barbarizing
 
 ## Passage 4: Lucian *Dream* 15
 
+ἀρθεὶς δὲ εἰς ὕψος ἐγὼ ἐπεσκόπουν ἀπὸ τῆς ἕω ἀρξάμενος ἄχρι πρὸς τὰ ἑσπέρια πόλεις καὶ ἔθνη καὶ δήμους, καθάπερ ὁ Τριπτόλεμος ἀποσπείρων τι εἰς τὴν γῆν. οὐκέτι μέντοι μέμνημαι ὅ τι τὸ σπειρόμενον ἐκεῖνο ἦν, πλὴν τοῦτο μόνον ὅτι κάτωθεν ἀφορῶντες ἄνθρωποι ἐπῄνουν . . .
+
+Lifted up to a great height I looked from the east to the west and beheld cities and races and peoples, and like Triptolemus I was sowing something down to earth. Yet I no longer remember what it was that I was sowing, except only that the people looking at me from below approved of it . . .
+
 ## Passage 5: Lucian *Dream* 16
 
-## Passage 6: 
+Ταῦτα μέμνημαι ἰδὼν ἀντίπαις ἔτι ὤν, ἐμοὶ δοκεῖν ἐκταραχθεὶς πρὸς τὸν τῶν πληγῶν φόβον.
 
-## Passage 7: 
+I remember seeing this when I was still a boy, greatly upset, I think, by my fear of [my uncle's] blows.
 
-## Passage 8: 
+## Passage 6: Ar. *Clouds* 483–85
 
-## Passage 9: 
+ΣΩ. οὔκ, ἀλλὰ βραχέα σου πυθέσθαι βούλομαι.
+ἦ μνημονικὸς εἶ; ΣΤ. δύο τρόπω νὴ τὸν Δία·
+ἢν μὲν γὰρ ὀφείληταί τί μοι, μνήμων πάνυ·
+ἐὰν δ᾽ ὀφείλω σχέτλιος, ἐπιλήσμων πάνυ.
 
-## Passage 10: 
+Are you apt to remember things? By Zeus, in two ways: if something is owed me, I have an excellent memory; but if I'm the wretch who owes something, I'm quite forgetful.
 
-## Passage 11: 
 
-## Passage 12: 
+## Passage 7: Ar. *Clouds* 629–31
 
-## Passage 13: 
+## Passage 8: Ar. *Clouds* 785–90
 
-## Passage 14: 
+## Passage 9: Lucian *Dream* 12
+
+## Passage 10: Ar. *Clouds* 1104
+
+## Passage 11: Lucian *Dream* 17
+
+## Passage 12: Ar. *Clouds* 43–52
+
+## Passage 13: Ar. *Clouds* 359–60
+
+## Passage 14: Ar. *Clouds* 1048–50
 
 ## Bibliography
 
@@ -87,6 +103,6 @@ Rosen, R. M. 2016. “Lucian’s Aristophanes: On Understanding Old Comedy in th
 
 Süvern, J. W. 1826. *Ueber Aristophanes Wolken.* Berlin.
 
-Williams, C. R. 1882. *Selections from Lucian. Boston.
+Williams, C. R. 1882. *Selections from Lucian.* Boston.
 
 Wygoda, Y. 2019. “Socratic Forgetfulness and Platonic Irony.” In *Greek Memories: Theories and Practices*, edited by L. Castagnoli and P. Ceccarelli, 195–215. Cambridge
