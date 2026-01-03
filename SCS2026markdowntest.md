@@ -6,11 +6,11 @@ stephen.hill@wyomingcatholic.edu
 
 9 January 2026
 
-**A Comic Choice of Heracles: Aristophanes’ *Clouds* and Lucian’s *Dream***
+# A Comic Choice of Heracles: Aristophanes’ *Clouds* and Lucian’s *Dream*
 
 [All translations are my own.]
 
-# Outline
+## Outline
 - Introduction (1–4)
   - Aporia: what trade should the narrator learn? (1)
   - His father’s choice: sculpture (2)
@@ -28,7 +28,7 @@ stephen.hill@wyomingcatholic.edu
 
 - Epilogue: Audience objections and the narrator's response (17–18)
   
-# 2: Lucian *Dream* 5
+## Passage 2: Lucian *Dream* 5
 ἵνα γὰρ καθ’ Ὁμηρον εἴπω, ``θεῖός μοι ἐνύπνιον ἦλθεν ὄνειρος / ἀμβροσίην διὰ νύκτα,'' **ἐναργὴς** οὔτως ὥστε μηδὲν ἀπολείπεσθαι τῆς ἀληθείας. ἔτι γοῦν καὶ μετὰ τοσοῦτον χρόνον τά τε σχήματά μοι τῶν φανέντων ἐν τοῖς ὀφθαλμοῖς παραμένει καὶ ἡ φωνὴ τῶν ἀκουσθέντων **ἔναυλος**· οὕτω **σαφῆ** πάντα ἦν.
 
 To speak after the manner of Homer, ``A divine dream, a vision, came upon me in the ambrosial night,'' so **vivid** as to in no way fall short of the truth. For still, after so much time, the forms of what appeared to me remain in my eyes and the sound of what I heard is **distinct**, everything was so **clear**.
