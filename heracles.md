@@ -4,7 +4,7 @@ Society for Classical Studies Annual Meeting
 
 stephen.hill@wyomingcatholic.edu
 
-9 January 2026
+9 January 2026test
 
 # A Comic Choice of Heracles: Aristophanes’ *Clouds* and Lucian’s *Dream*
 
