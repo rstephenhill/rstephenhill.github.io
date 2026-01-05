@@ -100,7 +100,7 @@ And Socrates, who himself was nurtured by this woman Sculpture, as soon as he un
 
 ## 10: Ar. *Clouds* 1104
 
-ΚΡ. **ἐξαὐτομολῶ** πρὸς ὑμᾶς.
+ΚΡ. **ἐξαυτομολῶ** πρὸς ὑμᾶς.
 		
 Stronger Arg.: "**I'm deserting** to you."
 
