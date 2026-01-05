@@ -6,7 +6,9 @@ stephen.hill@wyomingcatholic.edu
 
 9 January 2026
 
-# A Comic Choice of Heracles: Aristophanes’ *Clouds* and Lucian’s *Dream*
+# A Comic Choice of Heracles: 
+
+# Aristophanes’ *Clouds* and Lucian’s *Dream*
 
 [All translations are my own.]
 
