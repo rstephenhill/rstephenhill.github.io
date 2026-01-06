@@ -15,7 +15,7 @@ stephen.hill@wyomingcatholic.edu
   - Aporia: what trade should the narrator learn? (1)
   - His father’s choice: sculpture (2)
   - Failure as apprentice (3)
-  - The aftermath: tears, maternal comfort, and sleep (4)
+  - The aftermath: tears and sleep (4)
 
 - Transition to dream (5)
 
