@@ -59,7 +59,7 @@ Lifted up to a great height I looked from the east to the west and beheld cities
 
 ἐὰν δ᾽ ὀφείλω σχέτλιος, **ἐπιλήσμων** πάνυ.
 
-Are you **apt to remember things**? By Zeus, in two ways: if something is owed me, I have an excellent **memory**; but if I'm the wretch who owes something, I'm quite **forgetful**.
+Socrates: "Are you **apt to remember things**?" Strepsiades: "By Zeus, in two ways: if something is owed me, I have an excellent **memory**; but if I'm the wretch who owes something, I'm quite **forgetful**."
 
 ## 7: Ar. *Clouds* 629–31
 
