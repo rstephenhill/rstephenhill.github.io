@@ -35,7 +35,7 @@ To speak after the manner of Homer, "A divine dream, a vision, came upon me in t
 
 
 ## 3: Lucian *Dream* 8
-Ταῦτα καὶ ἔτι τούτων πλείονα διαπταίουσα καὶ βαρβαρίζουσα πάντοθεν εἶπεν ἡ Τέχνη . . . **ἀλλ’ οὐκέτι μέμνημαι· τὰ πλεῖστα γὰρ μου τὴν μνήμην ἤδη διέφυγεν.**
+Ταῦτα καὶ ἔτι τούτων πλείονα διαπταίουσα καὶ βαρβαρίζουσα πάντοθεν εἶπεν ἡ Τέχνη . . . **ἀλλ’ οὐκέτι μέμνημαι· τὰ πλεῖστα γὰρ ἤδη μου τὴν μνήμην ἤδη διέφυγεν.**
 
 Sculpture said these things and even more than these, blundering and barbarizing at every turn . . . **but I don’t remember anymore. Most of what she said has already escaped my memory.**
 
